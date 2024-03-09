@@ -1,0 +1,10 @@
+{
+  "database": {
+    "user": "root",
+    "password": "",
+    "port": 8080,
+    "database": "FlightPool",
+    "host": "localhost"
+  },
+  "secret": "flight12345"
+}
